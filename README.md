@@ -1,6 +1,6 @@
 # Casa da Moeda - Uma Estratégia para Preservação de Riquezas (FrontEnd)
 
-Trabalho para a Disciplina de Projeto Integrador
+Trabalho para a Disciplina de Projeto Integrador.
 
 **Desenvolvedor:** Phelipe Almeida de Souza
 
